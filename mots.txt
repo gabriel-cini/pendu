@@ -1,0 +1,17 @@
+orange
+pomme
+voiture
+camion
+avion
+cheval
+chien
+chat
+ecole
+veste
+vetement
+chaussure
+arbre
+terre
+
+fromage
+porte
